@@ -1,3 +1,2 @@
-# My_Rebo
-For Git
+# New Website Project
 ### Notes
